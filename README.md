@@ -1,7 +1,7 @@
 # UC_Berkeley_Practical-ApplicationAssignment5.1_SK
 
 ### PROBLEM STATEMENT:
-The problem statement is to prepare a concise report that outlines the differences between customers who accepted or declined coupons. Specifically, What factors influence a driver’s decision to accept a coupon once it’s delivered to their phones and the likelihood of a driver accepting a coupon. To analyze the data, I have aimed to plot and provide statistical summaries.
+The problem statement is to prepare a concise report that outlines the differences between customers who accepted or declined coupons. Specifically, what factors influence a driver’s decision to accept a coupon once it’s delivered to their phones and the likelihood of a driver accepting a coupon. To analyze the data, I have aimed to plot and provide statistical summaries.
 
 ### DATA ANALYSIS FINDINGS:
 
@@ -33,6 +33,8 @@ The drivers who accepted the bar coupons the most were people who already freque
 
 5). The acceptance rate for people who go to bars more than once a month and are under the age of 30 is around 73%
 
+ The findings suggest that people under the age of 40 are more likely to accept the coupon. The highest accepting age group is 21; this makes sense because 21 is the legal age for drinking. Therefore, 21 being the highest accepting group is most expected. 
+
 
 ### INDIVIDUAL STUDY
 **I chose to Investigate the coffee house coupon (coupon exclusively being for coffee house). The findings are:**
@@ -47,6 +49,10 @@ The drivers who accepted the bar coupons the most were people who already freque
 
 5). Students have an acceptance rate of 62.5%. Unemployed people have an acceptance rate of 54.2%. People under occpuation "Computer & Mathematical" have an acceptance rate of about 50%.
 
-The acceptance rate increases for people who visit a coffee house more often. It is also evident that people under the age of 30 have an increased acceptance rate compared to people over 30. Also, out of the top 3 occupations, students have the highest acceptance rate of 62.5%. **Therefore, students under the age of 30, who also frequent coffee shops, are more prone to using provided coupons.**
+The acceptance rate increases for people who visit a coffee house more often. It is also evident that people under the age of 30 have an increased acceptance rate compared to people over 30. Also, out of the top 3 occupations, students have the highest acceptance rate of 62.5%. **Therefore, students under the age of 30 who also frequent coffee shops, are more prone to using the provided coupons.**
+
+# Next steps and recommendations:
+
+For future work, it might prove useful to study more groups. The problem statement can be addressed more efficiently by studying all coupons and subsequently identifying the trends found in the acceptance rate.
 
 
